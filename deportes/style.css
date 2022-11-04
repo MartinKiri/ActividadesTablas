@@ -1,0 +1,15 @@
+table,tr,th{
+    border: 1px solid blue;
+}
+.f1 {
+    background-color: darkolivegreen;
+    color: greenyellow;
+}
+.f2,
+.f4 {
+    background-color:greenyellow;
+    
+}
+.f3{
+    background-color: lightgreen;
+}
