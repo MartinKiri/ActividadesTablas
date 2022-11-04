@@ -1,0 +1,29 @@
+
+*{
+    box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img{
+    display: flex;
+
+}
+.negrita {
+  text-align: center;
+  font-weight: bold;
+}
+.papel {
+  background-color: burlywood;
+}
+table {
+  height: 15vh;
+  width: 90vh;
+  border: 2px solid;
+}
+tr,
+th {
+  border: 2px solid;
+}
