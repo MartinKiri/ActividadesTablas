@@ -4,6 +4,7 @@ table,tr,th{
 .f1 {
     background-color: darkolivegreen;
     color: greenyellow;
+    text-transform: uppercase;
 }
 .f2,
 .f4 {
