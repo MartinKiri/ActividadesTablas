@@ -1,0 +1,33 @@
+body {
+  margin: 1em;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+table,
+tr,
+td {
+  width: 70vh;
+  text-align: center;
+  border: 1px solid;
+}
+td {
+  background-color: bisque;
+}
+th{
+  background:#fff;
+  border: 1px solid black;
+
+}
+.tabla {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60vw;
+  height: 96vh;
+  border: 1px solid black;
+  background-color: cornflowerblue;
+  border-radius: 2%;
+}
