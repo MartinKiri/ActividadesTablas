@@ -1,0 +1,35 @@
+table,
+tr,
+th,
+td {
+  padding: 5px;
+  border: 1px solid black;
+  text-align: center;
+}
+.fv {
+  background-color: greenyellow;
+}
+.fa {
+  background-color: yellow;
+}
+.fn {
+  background-color: orange;
+}
+.fn>td{
+  text-transform: uppercase;
+}
+.fa>td{
+  text-transform: uppercase;
+}
+.fv>th{
+  text-transform: uppercase;
+}
+.mys {
+  text-transform: capitalize;
+}
+.sombra{
+  box-shadow: inset 1px 1px 0 0 black;
+}
+.fondo{
+background-color: thistle;
+}
