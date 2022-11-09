@@ -7,13 +7,13 @@ body {
   flex-direction: column;
   height: 100vh;
   width: 100vw;
+  background: url(../img/f03.png);
   background-color: cyan;
 }
 .nubes {
-  width: 100vw;
-  height: 400vh;
-  background:url(../img/f03.png);
-
+width: 100vw;
+height: 420vh;
+  z-index: auto;
 }
 .mario {
   margin: 0 0 -1.5em;
