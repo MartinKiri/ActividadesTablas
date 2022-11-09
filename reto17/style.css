@@ -1,0 +1,9 @@
+body {
+  margin: 0 0 0 0;
+  display: flex;
+}
+.contenido {
+  background-image: url(../img/ac.jpg);
+  width: 100vw;
+  height: 100vh;
+}
