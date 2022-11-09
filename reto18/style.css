@@ -1,0 +1,30 @@
+body {
+  margin: 0 0 0 0;
+}
+.caja {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  background: url(../img/f03.png);
+  background-color: cyan;
+}
+.nubes {
+width: 100vw;
+height: 420vh;
+  z-index: auto;
+}
+.mario {
+  margin: 0 0 -1.5em;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+.suelo {
+  background: url(../img/f01.png);
+  width: 100vw;
+  height: 13vh;
+  display: flex;
+  align-items: flex-end;
+}
